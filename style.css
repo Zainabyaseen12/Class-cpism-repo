@@ -1,4 +1,8 @@
-p{
+.para_p1{
     background-color: blueviolet;
     color: blanchedalmond;
+}
+.para_p2{
+    background-color: beige;
+    color: black;
 }
