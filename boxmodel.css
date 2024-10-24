@@ -1,0 +1,12 @@
+div{
+    border: 2px solid black;
+    width: 50%;
+    margin: auto;
+    padding: 40px;
+}
+p{
+    background-color:blue;
+    color: white;
+    padding: 20px;
+    text-align: justify;
+}
