@@ -1,0 +1,26 @@
+.a{
+    width: 200px;
+    height: 300px;
+    border: 1px solid;
+    background-color: brown;
+    color: black;
+    position: sticky;
+    top: 100px;
+
+}
+.b{
+    width: 200px;
+    height: 300px;
+    border: 1px solid;
+    background-color: blue;
+    color: black;
+   
+}
+.c{
+    width: 200px;
+    height: 300px;
+    border: 1px solid;
+    background-color: rgb(138, 221, 30);
+    color: black;
+    
+}
